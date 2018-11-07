@@ -11,9 +11,9 @@
 		"newFeature": true
 	},
 	"compileType": "miniprogram",
-	"libVersion": "2.3.1",
-	"appid": "wx2f90282abdf530dc",
-	"projectname": "class_project",
+	"libVersion": "2.4.0",
+	"appid": "wx3e3c69f11e0c3cd3",
+	"projectname": "wxPro",
 	"debugOptions": {
 		"hidedInDevtools": []
 	},
@@ -27,13 +27,23 @@
 			"current": -1,
 			"list": []
 		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
 		"game": {
 			"currentL": -1,
 			"list": []
 		},
 		"miniprogram": {
-			"current": -1,
-			"list": []
+			"current": 0,
+			"list": [
+				{
+					"id": -1,
+					"name": "1",
+					"pathName": "pages/homepage/homepage"
+				}
+			]
 		}
 	}
 }

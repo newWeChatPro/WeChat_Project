@@ -1,0 +1,16 @@
+/**index.wxss**/
+
+.logInButton{
+  margin-top: 200rpx;
+  border: 1px solid blue;
+  width: 220rpx;
+  height: 80rpx;
+  border-radius: 5px;
+  text-align: center;
+}
+.button{
+  font-size: 28rpx;
+  font-weight: bold;
+  line-height: 80rpx;
+  color:blue;
+}

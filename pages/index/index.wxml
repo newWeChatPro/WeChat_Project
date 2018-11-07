@@ -1,0 +1,12 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="userinfo">
+    
+  </view>
+  <view>
+    <text>这是登录界面</text>
+    <view catchtap='onTapHome' class='logInButton'>
+      <text class='button'>开启小程序之旅</text>
+    </view>
+  </view>
+</view>
