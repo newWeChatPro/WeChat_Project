@@ -1,0 +1,6 @@
+<template name = 'movie-tpl'>
+  <view class='movie-container' catchtap='onMovieTap' data-movie-id = '{{moiveId}}'>
+    <image class='movie-img' src=''></image>
+    <text class='movie-title'>{{title}}</text>
+  </view>
+</template>
